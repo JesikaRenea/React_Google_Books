@@ -1,3 +1,71 @@
+
+  # Project Title
+  React-Google-Books: Week 21
+  
+  ## Description 
+  In this activity, you'll create a new React-based Google Books Search app. This assignment requires you to create React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. You'll also use Node, Express and MongoDB so that users can save books to review or purchase later.
+  
+  ## User Story
+  
+  As a:
+   User 
+  
+  I want to:
+   Be able to to search for Books with my React App
+   
+  So that I can: 
+   Save books to review or purchase later
+
+  ---
+  
+  
+  ## Table of Contents
+  
+  * [Installation] npm i
+  
+  * [Usage] n/a
+  
+  * [License] MIT          
+  
+  
+  ---
+  
+  ## Badges
+    
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  ## Screenshots
+
+![index.html](/images/index_ss.png)
+![portfolio.html](/images/portfolio_ss.png)
+![contact.html](/images/contact_ss.png)
+
+
+    
+  ## Tests
+  undefined
+
+  ## Links 
+
+  [Visit Portfolio Page](https://JesikaRenea.github.io/)
+
+  [Github Repo: React-Google-Books: Week 21](https://github.com/JesikaRenea/React_Google_Books)
+
+  [Deployed Heroku App](https://inserturl)
+
+  ## For Questions Contact:
+
+  JesikaRenea:
+
+
+  [![JesikaRenea](https://avatars1.githubusercontent.com/u/57422359?v=4)](https://github.com/JesikaRenea)
+
+  [JesikaRenea](https://github.com/JesikaRenea)
+  
+    ---
+  
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
