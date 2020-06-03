@@ -36,22 +36,15 @@
 
   ## Screenshots
 
-![index.html](/images/index_ss.png)
-![portfolio.html](/images/portfolio_ss.png)
-![contact.html](/images/contact_ss.png)
-
-
+![index.html](/client/src/assets/images/google-react-SS.png)
     
-  ## Tests
-  undefined
-
   ## Links 
 
   [Visit Portfolio Page](https://JesikaRenea.github.io/)
 
   [Github Repo: React-Google-Books: Week 21](https://github.com/JesikaRenea/React_Google_Books)
 
-  [Deployed Heroku App](https://inserturl)
+  [Deployed Heroku App](https://react-book-search-jh.herokuapp.com/)
 
   ## For Questions Contact:
 
